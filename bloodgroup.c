@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-void main()
-{ char Name[50], G[5], answer[10];
+void main(){
+  char Name[80], G[5], answer[10];
   int i;
   do
   {
