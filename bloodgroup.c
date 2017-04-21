@@ -1,5 +1,6 @@
+//CHange by pepomanz
 #include <stdio.h>
-#include <string.h>
+#include <stdlib.h>
 void main(){
   char Name[80], G[5], answer[10];
   int i;
