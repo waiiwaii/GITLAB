@@ -1,6 +1,4 @@
-//Change From pepomanz
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 void main(){
   char Name[80], G[5], answer[10];
