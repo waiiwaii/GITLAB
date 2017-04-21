@@ -1,6 +1,7 @@
 //CHange by pepomanz
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 void main(){
   char Name[80], G[5], answer[10];
   int i;
